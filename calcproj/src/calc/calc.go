@@ -3,6 +3,7 @@ package calc
 import (
 	"fmt"
 	"os"
+	"simplemath"
 	"strconv"
 )
 
